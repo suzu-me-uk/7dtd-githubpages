@@ -25,7 +25,7 @@ Amazon Web Services(AWS)のサーバーを利用しクラウド上でサーバ�
 
 使用しているマップはNavezgeneでもなくランダムマップでもありません。 `Nitrogen` を使用したオリジナルのマップを使用しています。
 
-通常のランダムマップは建物種類の偏りが酷く、特にティア5の建物がファクトリーだらけになり、 [skyscraper_01](https://kui.github.io/7dtd-map/prefabs/skate_park_01.html),[skyscraper_02](https://kui.github.io/7dtd-map/prefabs/skate_park_02.html),[skyscraper_03](https://kui.github.io/7dtd-map/prefabs/skate_park_03.html),[skyscraper_04](https://kui.github.io/7dtd-map/prefabs/skyscraper_04.html) などが滅多に出てこない事に不満を感じたため、Nitrogenを使用する事にしました。
+通常のランダムマップは建物種類の偏りが酷く、特にティア5の建物がファクトリーだらけになり、 [skyscraper_01](https://kui.github.io/7dtd-map/prefabs/skyscraper_01.html),[skyscraper_02](https://kui.github.io/7dtd-map/prefabs/skyscraper_02.html),[skyscraper_03](https://kui.github.io/7dtd-map/prefabs/skyscraper_03.html),[skyscraper_04](https://kui.github.io/7dtd-map/prefabs/skyscraper_04.html) などが滅多に出てこない事に不満を感じたため、Nitrogenを使用する事にしました。
 
 ### サーバーbotと2番目のコイン
 
