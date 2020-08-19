@@ -8,7 +8,7 @@ title = "7dtd.SUZU.ME.uk"
 # disable language
 disableLanguages = []
 # google analytics
-googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+googleAnalytics = "UA-198220-17" # paste your analytics ID here. (Ex: UA-123-45)
 
 defaultContentLanguage = "ja"
 
