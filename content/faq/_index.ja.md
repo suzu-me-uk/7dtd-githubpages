@@ -2,13 +2,13 @@
 title: "FAQ"
 draft: false
 type : "docs"
-icon: "ti-package"
+icon: "ti-help-alt"
 description: "よくある質問"
 keywords: ["FAQ","質問"]
 ---
 
 {{< faq id="a1" value="サーバーを見つけるにはどうすればよいですか？" >}}
-discordのinfoチャンネルに記載しています
+discordのinfoチャンネルに記載しています. 詳しくは[始め方](/start/)に記載しています。
 {{</ faq >}}
 
 {{< faq id="a2" value="ドロップマイニングとはなんですか?" >}}
