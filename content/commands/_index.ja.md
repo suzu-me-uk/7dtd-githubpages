@@ -17,18 +17,18 @@ keywords: ["コマンド","ショップ","仮想通貨","ショップ","command"
 
 コマンド  | 説明 | 補足 
 ---------| -----| -----
-`/settele` (別名:`/teleset` `/telecreate`)|テレポートの場所を作成する|現在の位置にテレポートの場所を作成します (例: `/settele home` homeという名前で現在の場所を記録する)
-`/tele` (別名:`/tp` `/teleport`)|設定した場所にテレポートします。|行きたい場所の名前を引数に指定して使う (例: `/tele home` homeでsetteleした場所に移動する)
-`/listtele` (別名:`/telelist` `/teleslist` `/listteles`)|テレポートの場所を一覧表示する|テレポートの場所を一覧表示します
-`/removetele` (別名:`/deltele` `/teledelete` `/deletetele` `/teleremove`)|テレポートの場所を削除します|指定したテレポートの場所を削除します
+`/settele` ( 別名: `/teleset` `/telecreate`)|テレポートの場所を作成する|現在の位置にテレポートの場所を作成します (例: `/settele home` homeという名前で現在の場所を記録する)
+`/tele` ( 別名:`/tp` `/teleport`)|設定した場所にテレポートします。|行きたい場所の名前を引数に指定して使う (例: `/tele home` homeでsetteleした場所に移動する)
+`/listtele` ( 別名: `/telelist` `/teleslist` `/listteles`)|テレポートの場所を一覧表示する|テレポートの場所を一覧表示します
+`/removetele` ( 別名: `/deltele` `/teledelete` `/deletetele` `/teleremove`)|テレポートの場所を削除します|指定したテレポートの場所を削除します
 
 
 ## 仮想コイン系コマンド
 
 コマンド  | 説明 | 補足 
 ---------| -----| -----
-`/balance` (別名:`/bal` `/wallet`) |現在の仮想コインを確認する|銀行口座にはいくらお金がありますか？
-`/shop` (別名:`store`) |ショップ|仮想コインを利用してアイテムを購入する
+`/balance` ( 別名: `/bal` `/wallet`) |現在の仮想コインを確認する|銀行口座にはいくらお金がありますか？
+`/shop` ( 別名: `store`) |ショップ|仮想コインを利用してアイテムを購入する
 `/claim` |購入したアイテムを受け取る|このコマンドはアイテムを足元に落とします. 安全な場所でこれを行うのが最善です.  一度に最大10アイテムを要求できます `/claim list` で受け取れるアイテムのリストを表示
 `/pay`   |別のプレイヤーにコインを送金します|引数：<PlayerName または SteamId> <金額>
 
