@@ -1,6 +1,6 @@
 ---
 title: "始め方"
-date: 2020-08-22T12:13:51+09:00
+date: 2020-09-26T20:13:51+09:00
 icon: "ti-game"
 description: "サーバーへの入り方"
 type : "docs"
