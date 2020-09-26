@@ -16,5 +16,5 @@ keywords: ["パスワード","discord"]
 
 サーバーにはパスワードを設定しています。
 
-パスワードは[discordのアナウンスチャンネル](https://discord.gg/TU632z)に記載していますのでdiscordのチャンネル参加をお願いします。
+パスワードは[discordのアナウンスチャンネル](https://discord.gg/G6vZXQH)に記載していますのでdiscordのチャンネル参加をお願いします。
 
