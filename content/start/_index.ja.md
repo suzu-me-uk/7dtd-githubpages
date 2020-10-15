@@ -14,7 +14,10 @@ keywords: ["パスワード","discord"]
 ただし、誰もプレイしてない場合はサーバーを起動していないので出てきません。
 サーバーはdiscordからbotにサーバー起動を命令する事で起動できます。
 
-サーバーにはパスワードを設定しています。
+[こちらからdiscordに参加](https://discord.gg/G6vZXQH) できます。
 
-パスワードは[discordのアナウンスチャンネル](https://discord.gg/G6vZXQH)に記載していますのでdiscordのチャンネル参加をお願いします。
+現在はサーバーにパスワードを設定していません。
+
+[steam://connect/pve01.7dtd.suzu.me.uk:26900](steam://connect/pve01.7dtd.suzu.me.uk:26900) のリンクからも直接参加可能です。
+
 
