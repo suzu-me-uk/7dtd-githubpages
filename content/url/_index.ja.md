@@ -16,8 +16,7 @@ keywords: ["server"]
 
 サーバー名  | Link | 補足 
 ---------| -----| -----
-PVE03|[steam://connect/stdtPVE03.suzu.me.uk:26900](steam://connect/stdtPVE03.suzu.me.uk:26900)|α21サーバー (難易度:戦士)
-PVE02|[steam://connect/stdtPVE02.suzu.me.uk:26900](steam://connect/stdtPVE02.suzu.me.uk:26900)|α20サーバー (難易度:狂気)
-PVE01|[steam://connect/stdtPVE01.suzu.me.uk:26900](steam://connect/stdtPVE01.suzu.me.uk:26900)|α20サーバー (難易度:戦士)
+~~PVE03~~|~~[steam://connect/stdtPVE03.suzu.me.uk:26900](steam://connect/stdtPVE03.suzu.me.uk:26900)~~|~~α21サーバー (難易度:戦士)~~
+
 
 

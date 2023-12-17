@@ -18,6 +18,6 @@ keywords: ["パスワード","discord"]
 
 現在はサーバーにパスワードを設定していません。
 
-[steam://connect/stdtPVE03.suzu.me.uk:26900](steam://connect/stdtPVE03.suzu.me.uk:26900) のリンクからも直接参加可能です。
+[steam://connect/stdtPVE03.suzu.me.uk:26900](steam://connect/157.7.208.157:26900) のリンクからも直接参加可能です。
 
 
